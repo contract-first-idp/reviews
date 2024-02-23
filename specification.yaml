@@ -1,0 +1,10 @@
+openapi: 3.0.3
+info:
+  title: reviews
+  description: |-
+    an API
+  version: 0.0.1
+servers:
+  - url: "http://localhost:8080"
+  - url: "https://microcks-microcks.apps.cluster-lg4gq.dynamic.redhatworkshops.io/rest/reviews/0.0.1"
+paths: {}
